@@ -1,3 +1,6 @@
+https://github.com/ZainRk/Personal-Portfolio-React
+https://www.youtube.com/watch?v=CKAn5dCK6RE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
